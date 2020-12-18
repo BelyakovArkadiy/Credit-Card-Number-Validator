@@ -7,9 +7,9 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
+* https://github.com/BelyakovArkadiy/Credit-Card-Number-Validator/issues/1#issue-770951412
+* https://github.com/BelyakovArkadiy/Credit-Card-Number-Validator/issues/2#issue-770954333
+* https://github.com/BelyakovArkadiy/Credit-Card-Number-Validator/issues/3#issue-770956572
 
 ## Описание процесса тестирования
 
